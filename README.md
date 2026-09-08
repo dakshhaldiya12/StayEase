@@ -1,2 +1,3 @@
 # StayEase
-Rental Listing Platform
+
+Rental Listing Platform.
